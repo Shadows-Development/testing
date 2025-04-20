@@ -1,7 +1,7 @@
 {
-  "name": "@shadow-dev/template",
+  "name": "@shadow-dev/testing",
   "version": "0.0.1",
-  "description": "ShadowDev project template.",
+  "description": "Starter package for Shadow Development projects.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
